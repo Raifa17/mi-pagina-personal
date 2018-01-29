@@ -1,5 +1,5 @@
   body {
-                background: rgb(125, 198, 205);
+                background: green;
                 color: rgb(45, 45, 45);
                 padding: 10px;
                 font-family: arial;
@@ -57,3 +57,6 @@
             [class=interests] header {
                 font-size: 1.25em;
             }
+			p {
+				color: red;
+			}
